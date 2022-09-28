@@ -1,2 +1,2 @@
 # Visualisation
-Use either R or Python to generate visualisation
+This repository aims to use either R or Python to generate some interesting visualisations.
