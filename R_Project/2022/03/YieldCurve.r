@@ -142,9 +142,7 @@ layout <- list(
         size = 10, 
         family = "Arial"
       ), 
-      text = "Produced by Eddy Zhang, Data Sourced from RBA and Investing.Com", 
-      xref = "paper", 
-      yref = "paper", 
+      text = "Produced by Eddy Zhang, Data Sourced from RBA and Investing.Com",  
       showarrow = FALSE
     )
   )
